@@ -1,6 +1,6 @@
 # Test details
 1. What does this test prove?
-  - This test seeks to test the upload of files of different sizes to determine what causes the upload of large files to fail.
+    - This test seeks to test the upload of files of different sizes to determine what causes the upload of large files to fail.
   
 2. Why are these tests being done?
     - These tests are being carried out because this [user](https://app.frontapp.com/open/msg_1fv1vkb0) reported the problem and other users have previously presented similar problems.
@@ -96,3 +96,10 @@
 # Notes
 1. The upload fails but shows no errors.
 2. The results were the same in both Tests, that is why only a video is shown because the behavior was the same.
+
+# Video of the tests carried out
+
+
+
+https://user-images.githubusercontent.com/114161539/200386904-8efa1512-f162-4394-bea0-32ab3ccbb284.mp4
+
