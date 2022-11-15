@@ -97,6 +97,40 @@
 1. The upload fails but shows no errors.
 2. The results were the same in both Tests, that is why only a video is shown because the behavior was the same.
 
+
+## Test 3 Amazon S3
+
+### File Types
+    - MP4
+    
+### Video file sizes
+    - 3.9mb
+    - 13.1mb
+    - 58.3mb
+
+### Computer specification
+    - SO : Pop Os
+    - Ram: 16gb
+    - CPU:Rayzen 5 5600G
+    - Main disk: HDD 500gb
+    - Network speed: 200mb / 200mb
+
+### Browser
+    - Chrome
+    - FireFox
+
+## Test 2 results
+
+### Chrome
+1. 3.9 MB file `Success`
+2. 13.1 MB file `Success`
+3. 58.3 MB file `failed`
+
+### Firefox
+1. 3.9 MB file `Success`
+2. 13.1 MB file `Success`
+3. 58.3 MB file `failed`
+
 # Video of the tests carried out
 
 
