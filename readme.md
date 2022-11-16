@@ -119,7 +119,7 @@
     - Chrome
     - FireFox
 
-## Test 2 results
+## Test 3 results
 
 ### Chrome
 1. 3.9 MB file `Success`
@@ -133,7 +133,40 @@
 
 # Video of the tests carried out
 
+## Test 4 Download local files
 
+### File Types
+    - MP4
+    
+### Video file sizes
+    - 3.9mb
+    - 13.1mb
+    - 58.3mb
+
+### Computer specification
+    - SO : Pop Os
+    - Ram: 16gb
+    - CPU:Rayzen 5 5600G
+    - Main disk: HDD 500gb
+    - Network speed: 200mb / 200mb
+
+### Browser
+    - Chrome
+    - FireFox
+
+## Test 4 results
+
+### Chrome
+1. 3.9 MB file `Success`
+2. 13.1 MB file `Success`
+3. 58.3 MB file `Success`
+
+### Firefox
+1. 3.9 MB file `Success`
+2. 13.1 MB file `Success`
+3. 58.3 MB file `Success`
+
+`Note: Although all downloads are successful, files that are treated as blobs do not work. Example without a file that is a video weighing 23MB it will be downloaded and will weigh 56 Bytes and will not be able to be played`
 
 https://user-images.githubusercontent.com/114161539/200386904-8efa1512-f162-4394-bea0-32ab3ccbb284.mp4
 
